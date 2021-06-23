@@ -1,1 +1,5 @@
+export * from './Avatar'
+export * from './Profile'
+export * from './ButtonAdd'
 export * from './ButtonIcon'
+export * from './Background'
