@@ -1,5 +1,7 @@
 export * from './Avatar'
 export * from './Profile'
+export * from './Category'
 export * from './ButtonAdd'
 export * from './ButtonIcon'
 export * from './Background'
+export * from './CategorySelect'
